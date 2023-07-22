@@ -1,0 +1,146 @@
+html{
+    scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar{
+    display: none;
+}
+#main-nav{
+    background-color: transparent;
+}
+section{
+    height: 100vh;
+}
+#home{
+    background: url('https://tse1.explicit.bing.net/th?id=OIP.CpF1BTUMHJjOviX9ZwM2lQHaE8&pid=Api&P=0');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.custom-col{
+    margin-top: 25%;
+}
+i{
+    color: black;
+}
+
+img{
+    filter: grayscale(1);
+}
+.img-hero{
+    height: auto;
+}
+.spacing{
+    margin-top: 3%;
+}
+
+.card-icon{
+    font-size: 3rem;
+}
+
+.block{
+    height: 0.5rem;
+    width: 6rem;
+    background-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0.5rem;
+    opacity: 0.3;
+}
+
+#contact {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+  }
+  
+  #contact h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  #contact p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  #contact form {
+    margin-bottom: 30px;
+  }
+  
+  #contact label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #contact input[type="text"],
+  #contact input[type="email"],
+  #contact textarea {
+    border-radius: 0;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    font-size: 16px;
+  }
+  
+  #contact input[type="text"]:focus,
+  #contact input[type="email"]:focus,
+  #contact textarea:focus {
+    border-color: #007bff;
+    box-shadow: none;
+  }
+  
+  #contact textarea {
+    resize: none;
+  }
+  
+  #contact button[type="submit"] {
+    background-color: #007bff;
+    border: none;
+    border-radius: 0;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+  }
+  
+  #contact button[type="submit"]:hover {
+    background-color: #0069d9;
+    cursor: pointer;
+  }
+
+  footer {
+    padding: 50px 0;
+  }
+  
+  footer h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  footer ul li a {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  footer ul li a:hover {
+    color: #ccc;
+  }
+  
+  footer hr {
+    border-color: #fff;
+  }
+  
+  footer p.text-center {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
